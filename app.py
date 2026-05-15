@@ -1,7 +1,7 @@
 import streamlit as st
 from src.api_client import get_usd_quotation
 
-st.title("🤞 Gerenciador de Gastos - Expansão de Domínio")
+st.title("Gerenciador de Gastos")
 
 st.header("Cotação em Tempo Real")
 if st.button('Consultar Dólar Agora'):
