@@ -1,6 +1,6 @@
 # 💰 Gerenciador de Gastos Pessoais CLI
 
-![Pipeline Status](https://github.com/Adrianzx01/gastos-pessoais-cli/actions/workflows/ci.yml/badge.svg)
+![Pipeline Status](https://github.com/Adrianzx01/gastos-pessoais/actions/workflows/ci.yml/badge.svg)
 
 ## 📝 Descrição do Projeto
 Este projeto foi desenvolvido como parte de uma atividade de Arquitetura de Software. Ele consiste em uma ferramenta de linha de comando (CLI) para auxiliar no controle financeiro pessoal, permitindo o registro de despesas e o cálculo automático do total acumulado.
